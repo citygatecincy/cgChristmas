@@ -1,0 +1,146 @@
+/* Mobile */
+body{
+  width: auto;
+  height: 500px;
+  background-color: #F1ECE7;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.App {
+  text-align: center;
+  height: auto;
+}
+.Details{
+  background: #FCCC26;  
+  margin-top: 50px;
+  padding: 50px;
+  text-align: left;
+}
+.Locations{
+  text-align: left;
+  padding-top: 50px;
+  padding-bottom: 90px;
+}
+.Footer{
+  background: #d3d3d3;
+  padding: 10px;
+}
+.details{padding-left: 20px; padding-bottom: 15px;}
+.HeroImg{
+  max-width: 100%;
+  margin-top: -20px;
+}
+.Bug{
+  position: fixed;
+  right: -5px;
+  max-width: 50%;
+}
+.btn{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  padding: 20px;
+  background: #FCCC26;
+  width: 70%;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: .75em;
+  letter-spacing: .1em;
+  text-align: center;
+  border-radius: 20px;
+}
+.mainLink1{ 
+  display: block;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+.mainLink2{ 
+  display: block;
+  margin-bottom: 10px;
+}
+.mainLink3{ 
+  display: block;
+  margin-bottom: 10px;
+}
+
+
+/* Desktop */
+
+@media screen and (min-width: 1024px) {
+ 
+  body{
+    width: auto;
+    height: 500px;
+    background-color: #F1ECE7;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .App {
+    text-align: center;
+    height: auto;
+  }
+  .Details{
+    background: #FCCC26;  
+    margin-top: 50px;
+    padding: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: left;
+    line-height: 1.5em;
+  }
+  .Locations{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 90px;
+  }
+  .Footer{
+    background: #d3d3d3;
+    padding: 10px;
+    text-align: center;
+  }
+  .details{
+    padding-bottom: 15px;
+  }
+  .HeroImg{
+    max-width: 100%;
+    margin-top: -20px;
+  }
+  .Bug{
+    position: fixed;
+    right: -5px;
+    max-width: 15%;
+  }
+  .btn{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    padding: 20px;
+    background: #FCCC26;
+    width: 10%;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: .75em;
+    letter-spacing: .1em;
+    text-align: center;
+    border-radius: 20px;
+  }
+  .mainLink1{ 
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 0px;
+  }
+  .mainLink2{ 
+    display: block;
+    margin-bottom: 10px;
+  }
+  .mainLink3{ 
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+
+}
+
+
