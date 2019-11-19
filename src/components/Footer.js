@@ -9,6 +9,9 @@ const Locations = () => {
           1004 Columbus Avenue.
           Lebanon, Ohio 46036
       </p>
+      <p className="rates">
+        * Text and Data Rates may Apply.
+      </p>
     </div>
   );
 }

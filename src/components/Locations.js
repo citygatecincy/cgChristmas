@@ -7,14 +7,11 @@ const Locations = () => {
       <div className="details">
         <h1>Times and Locations</h1>
         <h3>Saturday, December 7th</h3>
-        <h3>Production begins at 3pm</h3>
-        <h3>Christmas Extravaganza 5pm to 6pm</h3>
+        <h3>Live Production: 3:00 PM</h3>
+        <h3>Santa’s Village: 4:30 PM</h3>
+        <br/>
         <h4>CityGate Church Lebanon</h4>
         <p>1004 Columbus Avenue. Lebanon, Ohio 46036</p>
-      </div>
-      
-      <div className="callToAction">
-          <a className="btn mainLink1" target="_blank rel=noopener" href="https://citygatechurch.wufoo.com/forms/x1vdk9hs01soldw/">Get Tickets</a>
       </div>
     </div>
   );

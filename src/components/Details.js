@@ -5,7 +5,13 @@ const Details = () => {
   return (
     <div className="Details">
       <p>
-      This year CityGate Kids is KICKING CHRISTMAS UP A NOTCH with Christmas UNWRAPPED! Joy - The Greatest Gift to the World! This production will explore the reasons why JOY is the greatest gift to the world. <br/> <br/> We are also have a CHRISTMAS EXTRAVAGANZA that will be from 5pm to 6pm. That will include Hot Chocolate bars, Letters to Santa, Ornament making, Candy Canes, Gingerbread Men, and... PICTURES WITH SANTA!!! Do Not Miss this night of WONDER!
+      This year CityGate Kids is KICKING CHRISTMAS UP A NOTCH, with Christmas Unwrapped: Joy – The Greatest Gift to the World! This live production will explore the reasons why Joy is the greatest gift to the world!
+      <br/> <br/>
+      We're also having Santa's Village which will begin at 4:30 PM. Including a Hot Chocolate Bar, Letters to Santa, Ornament Making, Candy Canes, Gingerbread Men, and... Pictures with Santa!  
+      <br/><br/><br/>
+      You do not want to miss this night of wonder!
+
+
       </p>
     </div>
   );

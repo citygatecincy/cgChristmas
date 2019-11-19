@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css';
-import HeroImage from '../assets/images/main.png';
+import HeroImage from '../assets/images/kidsChristmas.png';
 import Bug from '../assets/images/bug.png';
 
 const Main = () => {
@@ -12,7 +12,11 @@ const Main = () => {
         <img className="HeroImg" src={HeroImage} alt="Christmas Unwrapped Logo"></img>
 
         <div className="callToAction">
-          <a className="btn mainLink1" target="_blank rel=noopener" href="https://citygatechurch.wufoo.com/forms/x1vdk9hs01soldw/">Get Tickets</a>
+          <p>
+            Reserve your FREE seat and a photo with Santa!
+            <br/>
+            Text <i>"SANTA"</i> to 513-299-0011*
+          </p>
         </div>
     </section>
   );
